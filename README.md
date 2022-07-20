@@ -2,7 +2,7 @@
 ## Olá!
 ## Bem vindo ao meu livro de receitas! :wave:
 
--- Estrogonofe
--- Pavê
--- Salada de frutas
+- Estrogonofe
+- Pavê
+- Salada de frutas
 
