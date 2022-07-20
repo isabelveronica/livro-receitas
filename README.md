@@ -4,4 +4,5 @@
 
 -- Estrogonofe
 -- Pavê
+-- Salada de frutas
 
